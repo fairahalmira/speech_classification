@@ -113,7 +113,7 @@ Prediksi: woof
 
 ### Persyaratan
 
-* Python ≥ 3.8
+* Python 3.13.3
 * PyTorch
 * librosa
 * sounddevice
