@@ -1,5 +1,3 @@
-Berdasarkan isi notebook yang kamu berikan, berikut adalah **README.md** yang lengkap, jelas, dan sesuai dengan implementasi:
-
 ---
 
 # 🎧 Klasifikasi Suara Hewan dengan CNN
@@ -161,10 +159,9 @@ jupyter notebook vocal.ipynb
 
 ## 👨‍💻 Kontributor
 
-* Nama: \[Isikan namamu di sini]
-* Email: \[Isikan email]
-* GitHub: \[Isikan link GitHub]
+* Nama: \[FairahAlmira]
+* Univ: \[Institut Teknologi Padang]
+* Program: \[AI Development @ Infinite Learning]
 
 ---
 
-Kalau mau, aku juga bisa buatkan untukmu isi `requirements.txt` dan saran badge GitHub untuk README ini. Tinggal bilang saja ya! 🚀
