@@ -42,14 +42,12 @@ Setiap file adalah `.wav` berdurasi 2 detik, disimpan dengan nama sesuai label.
 
 ## 🔄 Preprocessing Data
 
-Sebelum pelatihan, dilakukan preprocessing pada data:
-✅ Voice Activity Detection (menghapus bagian diam)
-✅ Normalisasi amplitudo
-✅ Padding/Cropping (menyeragamkan panjang)
-✅ Ekstraksi fitur MFCC (40 koefisien)
-✅ Membuat dataset custom untuk PyTorch
-✅ Membagi data menjadi train/test
-
+- ✅ **Voice Activity Detection:** menghapus bagian diam  
+- ✅ **Normalisasi amplitudo:** menyeragamkan skala amplitudo  
+- ✅ **Padding/Cropping:** menyeragamkan panjang rekaman  
+- ✅ **Ekstraksi fitur MFCC:** menghasilkan 40 koefisien per frame  
+- ✅ **Membuat dataset custom:** menyesuaikan format untuk PyTorch  
+- ✅ **Membagi data:** menjadi data train dan test
 ---
 
 ## 🏗️ Model
